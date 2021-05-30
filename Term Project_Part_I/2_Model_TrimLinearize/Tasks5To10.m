@@ -16,7 +16,7 @@ LinearLonModel.StateName{5} = 'Alt';
 % Adding Units
 LinearLonModel.StateUnit{1} = 'm/s';
 LinearLonModel.StateUnit{2} = 'rad';
-% LinearLonModel.StateUnit{3} = '?';
+LinearLonModel.StateUnit{3} = 'rad/s';
 LinearLonModel.StateUnit{4} = 'rad';
 LinearLonModel.StateUnit{5} = 'm';
 
