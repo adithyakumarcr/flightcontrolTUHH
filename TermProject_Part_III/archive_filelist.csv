@@ -1,0 +1,15 @@
+﻿Name;Size;"First name";"Last name";Downloads;Date;Path
+FCDA_TermProject_Part_III.mlx;549678;Nicolas;Sedlmair;2;"11.07.2021 00:22";TermProject_Part_III/FCDA_TermProject_Part_III.mlx
+AircraftModel_6DoF.slx;102227;Nicolas;Sedlmair;2;"11.07.2021 00:22";TermProject_Part_III/4_6DoFControl/AircraftModel_6DoF.slx
+AircraftParameters.m;7014;Nicolas;Sedlmair;2;"11.07.2021 00:22";TermProject_Part_III/4_6DoFControl/AircraftParameters.m
+Auxiliary_Models.slx;104842;Nicolas;Sedlmair;2;"11.07.2021 00:22";TermProject_Part_III/4_6DoFControl/Auxiliary_Models.slx
+BusObjects.mat;6930;Nicolas;Sedlmair;2;"11.07.2021 00:22";TermProject_Part_III/4_6DoFControl/BusObjects.mat
+checklinearmodel.m;2867;Nicolas;Sedlmair;2;"11.07.2021 00:22";TermProject_Part_III/4_6DoFControl/checklinearmodel.m
+checkloopshape.m;2041;Nicolas;Sedlmair;2;"11.07.2021 00:22";TermProject_Part_III/4_6DoFControl/checkloopshape.m
+lat_compare.m;3912;Nicolas;Sedlmair;2;"11.07.2021 00:22";TermProject_Part_III/4_6DoFControl/lat_compare.m
+mode_resp_lat.m;1379;Nicolas;Sedlmair;2;"11.07.2021 00:22";TermProject_Part_III/4_6DoFControl/mode_resp_lat.m
+phasor_lat.m;1411;Nicolas;Sedlmair;2;"11.07.2021 00:22";TermProject_Part_III/4_6DoFControl/phasor_lat.m
+plotKSreq.m;2118;Nicolas;Sedlmair;2;"11.07.2021 00:22";TermProject_Part_III/4_6DoFControl/plotKSreq.m
+polemap_lat.m;1311;Nicolas;Sedlmair;2;"11.07.2021 00:22";TermProject_Part_III/4_6DoFControl/polemap_lat.m
+simulate_lat.m;2580;Nicolas;Sedlmair;2;"11.07.2021 00:22";TermProject_Part_III/4_6DoFControl/simulate_lat.m
+Thumbs.db;13824;Nicolas;Sedlmair;2;"11.07.2021 00:22";TermProject_Part_III/4_6DoFControl/Thumbs.db
