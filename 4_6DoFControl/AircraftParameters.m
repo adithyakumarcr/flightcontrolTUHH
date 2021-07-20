@@ -12,24 +12,24 @@ CNT_f = 0.003352810664747;
 %TrimPoint.States.debar = deg2rad(-6.8640);
 TrimPoint.States.debar = -0.14252;
 %TrimPoint.States.dabar = 0;;
-TrimPoint.States.dabar = -0.022319;
+TrimPoint.States.dabar = -0.022317;
 %TrimPoint.States.drbar = 0;
 TrimPoint.States.drbar = 0.12421;
 %TrimPoint.States.dtbar = 0.185;
 TrimPoint.States.dtbar = 0.33985;
 
 %TrimPoint.States.X_P = 2000;
-TrimPoint.States.X_P = 5429.5159;
+TrimPoint.States.X_P = 5429.5256;
 
-%TrimPoint.States.Phibar   = 0;
-TrimPoint.States.Phibar   = 0.015575;
+%TrimPoint.States.Phibar   = 0; 
+TrimPoint.States.Phibar   = 0.015574;
 %TrimPoint.States.Thetabar = deg2rad(4);
 TrimPoint.States.Thetabar = 0.10798;
 %TrimPoint.States.Psibar   = deg2rad(60);
-TrimPoint.States.Psibar   = 1.0472;
+TrimPoint.States.Psibar   = 1.5443;
 
 %TrimPoint.States.Latbar   = deg2rad(53.58715);
-TrimPoint.States.Latbar   = 0.93527;
+TrimPoint.States.Latbar   = 43.9823;
 %TrimPoint.States.Lonbar   = deg2rad(9.89862);
 TrimPoint.States.Lonbar   = 0.17276;
 %TrimPoint.States.Altbar   = 3000;
@@ -38,7 +38,7 @@ TrimPoint.States.Altbar   = 4500;
 %TrimPoint.States.ubar = 120*cos(TrimPoint.States.Thetabar);
 TrimPoint.States.ubar = 115;
 %TrimPoint.States.vbar =   0;
-TrimPoint.States.vbar =   3.2615;
+TrimPoint.States.vbar =   3.2613;
 %TrimPoint.States.wbar = 120*sin(TrimPoint.States.Thetabar);  
 TrimPoint.States.wbar = 12.4174;
 
