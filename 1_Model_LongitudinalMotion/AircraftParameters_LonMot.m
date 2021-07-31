@@ -9,7 +9,7 @@ CNT_StepSize=1E-3;
 %% Trim Point
 
 TrimPoint.States.debar = -0.169;
-TrimPoint.States.dtbar = 0.34261;
+TrimPoint.States.dtbar = 	0.34;
 
 TrimPoint.States.X_P = 5490;
 
